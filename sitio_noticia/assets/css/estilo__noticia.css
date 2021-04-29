@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,wght@1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+
+
+h1 {
+    text-align: center;
+    color: white;
+    font-family: 'Bodoni Moda', serif;
+    font-size: 120px;
+    background-color: #003861;
+    margin:0px;
+    padding: 0px;
+    
+    }
+h2 {
+    color: #003861;
+    font-family: 'Bodoni Moda', serif;
+    font-size: 42px;
+}
+h3 {
+    text-align: center;
+    position: relative;
+    color: white;
+    font-family: 'Bodoni Moda', serif;
+    font-size: 32px;
+    background-color: #003861;
+    margin: 0px;
+    padding: 0px;
+}
+h4 {
+    text-align: center;
+    color:white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    background-color: #003861;
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    background-image: url('../img/textura_papel.jpg');
+}
+.afiche {
+        width: 430px;
+        padding: 5px;
+        float: right; 
+        position: relative;
+        bottom: 1100px;
+        right: 60px;
+        border: 3px solid #003861;        
+    }
+p {
+    color:#333333;
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+}
+.bajada__noticia {
+    font-size: 20px;
+    font-weight: bold;
+    border-bottom: 5px solid #003861;
+    padding: 10px;
+}
+blockquote {
+    font-family: 'Bodoni Moda', serif;
+    font-size: 20px;
+    border-left: #ffff00 5px solid;
+    width: 320px;
+    padding-left: 20px;
+}
+#envoltorio_principal {
+    background-color: rgba(255,255,255, 0.5);
+    width: 60%;
+    padding: 20px;
+}
+.logo {
+    width: 220px;
+    padding: 10px;
+    float: left;
+    position: relative;
+    bottom: 1518px;
+}
+.centrado {
+    width: 320px;
+    height: auto;
+    float: left;
+    position: relative;
+    bottom: 920px;
+    right: 50px;
+    padding-left: 100px;
+}
+.logo2 {
+    width: 220px;
+    padding: 20px;
+    position: relative;
+    bottom: -600px;
+}
